@@ -11,9 +11,7 @@ RUN rm -rf photogenic photogenic.zip
 CMD ["/usr/sbin/httpd", "-D", "FOREGROUND"]
 EXPOSE 80
 
-added additonally
-nned to trmove
- 
+
  
 # FROM  centos:latest
 # MAINTAINER vikashashoke@gmail.com
